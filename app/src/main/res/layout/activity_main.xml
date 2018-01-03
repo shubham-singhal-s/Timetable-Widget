@@ -11,7 +11,8 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:gravity="center_horizontal"
-        android:orientation="vertical">
+        android:orientation="vertical"
+        android:paddingTop="60dp">
 
         <LinearLayout
             android:layout_width="wrap_content"
@@ -45,13 +46,17 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:padding="16dp"
+            android:textColor="#fff"
+            android:backgroundTint="#4e4e4e"
             android:text="Manual Refresh" />
 
         <TextView
             android:id="@+id/ttt"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:padding="10dp" />
+            android:textSize="18.5sp"
+            android:padding="5dp"
+            android:layout_marginBottom="15dp"/>
 
     </LinearLayout>
 </ScrollView>
