@@ -3,18 +3,16 @@
 break
 
 Monday<br><br>
-<b>01:00</b> - Compiler Design<br>
-<b>02:00</b> - Parallel Programming<br>
+<b>01:00</b> - CD<br>
+<b>02:00</b> - PCAP<br>
 <b>03:30</b> - PE - II<br>
-<b>04:30</b> - PE - III
+<b>04:30</b> - PE - III<br>
+<font color="#9e9e9e"><b>05:30</b> - CD (*)</font>
 
 break
 
 Tuesday<br><br>
-<b>08:00</b> - Open Elective<br>
-<b>09:00</b> - Economics and Finance<br>
-<b>10:30</b> - Compiler Design<br>
-<b>11:30</b> - Parallel Programming<br><br>
+<b>09:00</b> - EEFM<br><br>
 <b>02:00</b> - CD Lab (02)
 
 break
@@ -23,13 +21,13 @@ Wednesday<br><br>
 <b>01:00</b> - PE - II<br>
 <b>02:00</b> - PE - III<br>
 <b>03:30</b> - Open Elective<br>
-<b>04:30</b> - Economics and Finance
+<b>04:30</b> - EEFM
 
 break
 
 Thursday<br><br>
-<b>08:00</b> - Compiler Design<br>
-<b>09:00</b> - Parallel Programming<br>
+<b>08:00</b> - CD<br>
+<b>09:00</b> - PCAP<br>
 <b>10:30</b> - PE - II<br>
 <b>11:30</b> - PE - III<br><br>
 <b>02:00</b> - PCAP Lab (02)
@@ -38,11 +36,15 @@ break
 
 Friday<br><br>
 <b>01:00</b> - Open Elective<br>
-<b>02:00</b> - Economics and Finance<br>
-<b>03:30</b> - Compiler Design<br>
-<b>04:30</b> - Parallel Programming
+<b>02:00</b> - EEFM<br>
+<b>03:30</b> - CD<br>
+<b>04:30</b> - PCAP<br>
+<font color="#9e9e9e"><b>05:30</b> - PCAP (*)</font>
 
 break
 
 Saturday<br><br>
-<b>Holiday</b>
+<font color="#9e9e9e"><b>08:00</b> - PE - II (*)<br></font>
+<font color="#9e9e9e"><b>09:00</b> - PE - III (*)<br></font>
+<b>10:30</b> - OE<br>
+<font color="#9e9e9e"><b>11:30</b> - EEFM (*)</font>
